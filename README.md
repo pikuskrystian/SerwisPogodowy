@@ -40,3 +40,4 @@ QCOM_PASSPHRASE g_passphrase = {.passphrase = (AP_PASSPHRASE)};
 WLAN_AUTH_MODE g_auth = WLAN_AUTH_WPA2_PSK;
 WLAN_CRYPT_TYPE g_cipher = WLAN_CRYPT_AES_CRYPT;
 ```
+![guiserwispogodowy](./images/SerwisPogodowySS1.png)
