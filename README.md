@@ -24,6 +24,22 @@ while (1)
 
    
    ```
+   Przykładowe dane pogodowe w formacie JSON
+{
+"coord":{"lon":20.987,"lat":50.0138},
+"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],
+"base":"stations",
+"main":{"temp":284.82,"feels_like":282.4,"temp_min":284.82,"temp_max":284.82,"pressure":1025,"humidity":51},
+"visibility":10000,
+"wind":{"speed":1.04,"deg":154},
+"clouds":{"all":0},
+"dt":1614786092,
+"sys":{"type":3,"id":2021607, "country":"PL","sunrise":1614748525,"sunset":1614788452},
+"timezone":3600,
+"id":757026,
+"name":"Tarnów",
+"cod":200
+}
 ### Technologies:
 Project is created with:
 * JSON
