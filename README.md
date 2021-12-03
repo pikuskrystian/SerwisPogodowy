@@ -25,6 +25,7 @@ while (1)
    
    ```
    Przykładowe dane pogodowe w formacie JSON
+   ```
 {
 "coord":{"lon":20.987,"lat":50.0138},
 "weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],
@@ -40,6 +41,7 @@ while (1)
 "name":"Tarnów",
 "cod":200
 }
+```
 ### Technologies:
 Project is created with:
 * JSON
